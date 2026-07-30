@@ -1,18 +1,18 @@
-{
+ {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Łukasz Kwiatkowski",
     "label": "Software Engineer at InsERT",
     "image": "",
-    "email": "",
+    "email": "lukasz [at] codecreation.pl",
     "phone": "",
-    "url": "",
-    "summary": "",
+    "url": "https://codecreation.pl",
+    "summary": "An enthusiastic backend engineer with over 13-year experience and wide knowledge of the server side technologies, cloud and databases. Operating on all of web application tiers. Has created many web projects from scratch. Seeking to use his skills challenging problems. A loyal team member appreciating high stability.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "",
-      "countryCode": "",
+      "city": "Cracow",
+      "countryCode": "PL",
       "region": ""
     },
     "profiles": [
@@ -25,7 +25,16 @@
   },
   "work": [],
   "volunteer": [],
-  "education": [],
+  "education": [{
+    "institution": "University of Wrocław",
+    "url": "https://uwr.edu.pl/",
+    "area": "Computer Science",
+    "studyType": "Bachelor of Engineering (incomplete)",
+    "startDate": "2012-09-01",
+    "endDate": "2015-02-01",
+    "score": null,
+    "courses": []
+  }],
   "awards": [],
   "certificates": [],
   "publications": [],
