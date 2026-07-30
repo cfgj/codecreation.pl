@@ -32,10 +32,8 @@
     "studyType": "Bachelor of Engineering",
     "startDate": "2016-03-01",
     "endDate": "2017-06-01",
-    "score": "4.5/5.0",
-    "courses": [
-      "Thesis: Development of a Tool for Dynamic Analysis of JavaScript Code (written in Polish)"
-    ]
+    "score": "4.5/5.0; Thesis: Development of a Tool for Dynamic Analysis of JavaScript Code (written in Polish)",
+    "courses": []
   }, {
     "institution": "University of Wrocław",
     "url": "https://uwr.edu.pl/",
