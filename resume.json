@@ -53,6 +53,33 @@
   }],
   "publications": [],
   "skills": [{
+    "name": "Leadership",
+    "level": "",
+    "keywords": [
+     "Technical Leadership",
+     "People Management",
+     "Mentoring"
+    ]
+  }, {
+    "name": "Product & Delivery",
+    "level": "",
+    "keywords": [
+     "Cross-functional Collaboration",
+     "Backlog Management",
+     "Backlog Prioritization",
+     "Sprint Planning"
+    ]
+  }, {
+    "name": "Engineering",
+    "level": "",
+    "keywords": [
+      "Software Architecture",
+      "Design Patterns",
+      "Technical Decision Making",
+      "Code Reviews",
+      "Technical Documentation"
+    ]
+  }, {
     "name": "Cloud",
     "level": "",
     "keywords": [
@@ -77,20 +104,16 @@
       "NoSQL",
       "EntityFramework",
       "Dapper",
+      "Testcontainers",
       "Microservices"
     ]
   }, {
-    "name": "Design pattern",
-    "level": "",
-    "keywords": []
-  }, {
     "name": "Frontend",
-    "level": "Basics",
+    "level": "",
     "keywords": [
      "JavaScript",
      "TypeScript",
-     "React",
-     "Angular"
+     "React & Angular Basics"
     ]
   }, {
     "name": "Azure DevOps",
