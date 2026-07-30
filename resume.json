@@ -36,11 +36,31 @@
     "courses": []
   }],
   "awards": [],
-  "certificates": [],
+  "certificates": [{
+    "name": "AZ-204: Azure Developer Associate",
+    "date": "2021-08-03",
+    "issuer": "Microsoft",
+    "url": "hhttps://www.credly.com/badges/cb4106fe-dffd-4549-991b-0e6bc5d6e1e1"
+  }],
   "publications": [],
   "skills": [],
-  "languages": [],
-  "interests": [],
+  "languages": [{
+    "language": "Polish",
+    "fluency": "Native speaker"
+  }, {
+    "language": "English",
+    "fluency": "Limited working proficiency"
+  }],
+  "interests": [{
+     "name": "Cycling",
+     "keywords": ["Road", "Gravel", "Night Cycling"]
+   }, {
+     "name": "Climbing",
+     "keywords": ["Trad", "Gym"]
+  }, {
+     "name": "Hiking",
+     "keywords": ["Scrambling", "Off the trail"]
+  }],
   "references": [],
   "projects": [],
   "meta": {
