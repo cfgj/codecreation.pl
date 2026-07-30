@@ -67,6 +67,38 @@
       "Logs analysis",
       "KQL"
     ]
+  }, {
+    "name": "Server-side technologies",
+    "level": "",
+    "keywords": [
+      ".NET",
+      "C#",
+      "SQL Server",
+      "NoSQL",
+      "EntityFramework",
+      "Dapper",
+      "Microservices"
+    ]
+  }, {
+    "name": "Design pattern",
+    "level": "",
+    "keywords": []
+  }, {
+    "name": "Frontend",
+    "level": "Basics",
+    "keywords": [
+     "JavaScript",
+     "TypeScript",
+     "React",
+     "Angular"
+    ]
+  }, {
+    "name": "Azure DevOps",
+    "level": "",
+    "keywords": [
+     "Azure Pipelines",
+     "CI/CD Pipelines"
+    ]
   }],
   "languages": [{
     "language": "Polish",
