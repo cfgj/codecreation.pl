@@ -26,6 +26,15 @@
   "work": [],
   "volunteer": [],
   "education": [{
+    "institution": "University of Information Technology and Management \"Copernicus\"",
+    "url": "",
+    "area": "Computer Science",
+    "studyType": "Bachelor of Engineering",
+    "startDate": "2017-06-01",
+    "endDate": "2016-03-01",
+    "score": "4.5/5.0 (Thesis: Development of a Tool for Dynamic Analysis of JavaScript Code)",
+    "courses": []
+  }, {
     "institution": "University of Wrocław",
     "url": "https://uwr.edu.pl/",
     "area": "Computer Science",
@@ -43,7 +52,22 @@
     "url": "https://www.credly.com/badges/cb4106fe-dffd-4549-991b-0e6bc5d6e1e1"
   }],
   "publications": [],
-  "skills": [],
+  "skills": [{
+    "name": "Cloud",
+    "level": "",
+    "keywords": [
+      "Azure",
+      "Container Apps",
+      "Function Apps",
+      "Service Bus",
+      "EntraId",
+      "ARM",
+      "Bicep",
+      "IaaC",
+      "Logs analysis",
+      "KQL"
+    ]
+  }],
   "languages": [{
     "language": "Polish",
     "fluency": "Native speaker"
