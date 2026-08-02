@@ -23,7 +23,71 @@
       }
     ]
   },
-  "work": [],
+  "work": [{
+    "name": "InsERT",
+    "position": "Chapter Lead",
+    "url": "https://www.insert.com.pl",
+    "startDate": "2025-02-01",
+    "endDate": "Present",
+    "summary": "",
+    "highlights": []
+  }, {
+    "name": "InsERT",
+    "position": "Tech Lead",
+    "url": "https://www.insert.com.pl",
+    "startDate": "2023-08-01",
+    "endDate": "Present",
+    "summary": "",
+    "highlights": []
+  }, {
+    "name": "InsERT",
+    "position": "Senior Software Engineer",
+    "url": "https://www.insert.com.pl",
+    "startDate": "2020-12-01",
+    "endDate": "2023-07-01",
+    "summary": "",
+    "highlights": []
+  }, {
+    "name": "InsERT",
+    "position": "Full Stack Developer",
+    "url": "https://www.insert.com.pl",
+    "startDate": "2015-03-01",
+    "endDate": "2020-11-01",
+    "summary": "",
+    "highlights": []
+  }, {
+    "name": "InsERT",
+    "position": "C#/.NET Developer",
+    "url": "https://www.insert.com.pl",
+    "startDate": "2014-07-01",
+    "endDate": "2015-02-01",
+    "summary": "",
+    "highlights": []
+  }, {
+    "name": "Euvic",
+    "position": "Web Developer",
+    "url": "https://www.euvic.com",
+    "startDate": "2013-07-01",
+    "endDate": "2014-03-01",
+    "summary": "",
+    "highlights": []
+  }, {
+    "name": "Euvic",
+    "position": "Web Developer (internship)",
+    "url": "https://www.euvic.com",
+    "startDate": "2012-06-01",
+    "endDate": "2012-09-01",
+    "summary": "",
+    "highlights": []
+  }, {
+    "name": "Vision Software",
+    "position": "Web Developer",
+    "url": "",
+    "startDate": "2011-06-01",
+    "endDate": "2011-12-01",
+    "summary": "",
+    "highlights": []
+  }],
   "volunteer": [],
   "education": [{
     "institution": "University of Information Technology and Management \"Copernicus\"",
