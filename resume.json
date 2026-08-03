@@ -1,10 +1,10 @@
- {
+{
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Łukasz Kwiatkowski",
     "label": "Software Engineer at InsERT",
     "image": "",
-    "email": "lukasz [at] codecreation.pl",
+    "email": "lukasz[at]codecreation.pl",
     "phone": "",
     "url": "https://codecreation.pl",
     "summary": "An enthusiastic engineer with over 13-year experience and wide knowledge of the server side technologies, cloud and databases. Operating on all of web application tiers. Has created many web projects from scratch. Seeking to use his skills challenging problems.\n\nComplementing software designing with technical and people leadership through mentoring, supporting engineers' professional growth, and participating in technical interviews and recruitment.\n\nA loyal team member appreciating high stability.",
@@ -23,189 +23,237 @@
       }
     ]
   },
-  "work": [{
-    "name": "InsERT",
-    "position": "Chapter Lead",
-    "url": "https://www.insert.com.pl",
-    "startDate": "2025-02-01",
-    "endDate": "Present",
-    "summary": "",
-    "highlights": []
-  }, {
-    "name": "InsERT",
-    "position": "Tech Lead",
-    "url": "https://www.insert.com.pl",
-    "startDate": "2023-08-01",
-    "endDate": "Present",
-    "summary": "",
-    "highlights": []
-  }, {
-    "name": "InsERT",
-    "position": "Senior Software Engineer",
-    "url": "https://www.insert.com.pl",
-    "startDate": "2020-12-01",
-    "endDate": "2023-07-01",
-    "summary": "",
-    "highlights": []
-  }, {
-    "name": "InsERT",
-    "position": "Full Stack Developer",
-    "url": "https://www.insert.com.pl",
-    "startDate": "2015-03-01",
-    "endDate": "2020-11-01",
-    "summary": "",
-    "highlights": []
-  }, {
-    "name": "InsERT",
-    "position": "C#/.NET Developer",
-    "url": "https://www.insert.com.pl",
-    "startDate": "2014-07-01",
-    "endDate": "2015-02-01",
-    "summary": "",
-    "highlights": []
-  }, {
-    "name": "Euvic",
-    "position": "Web Developer",
-    "url": "https://www.euvic.com",
-    "startDate": "2013-07-01",
-    "endDate": "2014-03-01",
-    "summary": "",
-    "highlights": []
-  }, {
-    "name": "Euvic",
-    "position": "Web Developer (internship)",
-    "url": "https://www.euvic.com",
-    "startDate": "2012-06-01",
-    "endDate": "2012-09-01",
-    "summary": "",
-    "highlights": []
-  }, {
-    "name": "Vision Software",
-    "position": "Web Developer",
-    "url": "",
-    "startDate": "2011-06-01",
-    "endDate": "2011-12-01",
-    "summary": "",
-    "highlights": []
-  }],
+  "work": [
+    {
+      "name": "InsERT",
+      "position": "Chapter Lead",
+      "url": "https://www.insert.com.pl",
+      "startDate": "2025-02-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "InsERT",
+      "position": "Tech Lead",
+      "url": "https://www.insert.com.pl",
+      "startDate": "2023-08-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "InsERT",
+      "position": "Senior Software Engineer",
+      "url": "https://www.insert.com.pl",
+      "startDate": "2020-12-01",
+      "endDate": "2023-07-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "InsERT",
+      "position": "Full Stack Developer",
+      "url": "https://www.insert.com.pl",
+      "startDate": "2015-03-01",
+      "endDate": "2020-11-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "InsERT",
+      "position": "C#/.NET Developer",
+      "url": "https://www.insert.com.pl",
+      "startDate": "2014-07-01",
+      "endDate": "2015-02-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Euvic",
+      "position": "Web Developer",
+      "url": "https://www.euvic.com",
+      "startDate": "2013-07-01",
+      "endDate": "2014-03-01",
+      "summary": "",
+      "highlights": [
+        "Development of an invoicing and debt collection application",
+        "Writing and debugging stored procedures in SQL Server",
+        "Fixing bugs and improving system stability",
+        "Used technologies: PHP, Zend Framework, Ext JS, SQL Server"
+      ]
+    },
+    {
+      "name": "Euvic",
+      "position": "Web Developer (internship)",
+      "url": "https://www.euvic.com",
+      "startDate": "2012-06-01",
+      "endDate": "2012-09-01",
+      "summary": "",
+      "highlights": [
+        "Development of an online medical appointment booking application",
+        "Used technologies: C#, ASP.NET MVC, and SQL Server"
+      ]
+    },
+    {
+      "name": "Vision Software",
+      "position": "Web Developer",
+      "url": "https://visionsoftware.info",
+      "startDate": "2011-06-01",
+      "endDate": "2011-12-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
   "volunteer": [],
-  "education": [{
-    "institution": "University of Information Technology and Management \"Copernicus\"",
-    "url": "",
-    "area": "Computer Science",
-    "studyType": "Bachelor of Engineering",
-    "startDate": "2016-03-01",
-    "endDate": "2017-06-01",
-    "score": "4.5/5.0; Thesis: Development of a Tool for Dynamic Analysis of JavaScript Code (written in Polish)",
-    "courses": []
-  }, {
-    "institution": "University of Wrocław",
-    "url": "https://uwr.edu.pl/",
-    "area": "Computer Science",
-    "studyType": "Bachelor of Engineering (incomplete)",
-    "startDate": "2012-09-01",
-    "endDate": "2015-02-01",
-    "score": null,
-    "courses": []
-  }],
+  "education": [
+    {
+      "institution": "University of Information Technology and Management \"Copernicus\"",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2016-03-01",
+      "endDate": "2017-06-01",
+      "score": "4.5/5.0; Thesis: Development of a Tool for Dynamic Analysis of JavaScript Code (written in Polish)",
+      "courses": []
+    },
+    {
+      "institution": "University of Wrocław",
+      "url": "https://uwr.edu.pl/",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Engineering (incomplete)",
+      "startDate": "2012-09-01",
+      "endDate": "2015-02-01",
+      "score": "",
+      "courses": []
+    }
+  ],
   "awards": [],
-  "certificates": [{
-    "name": "AZ-204: Azure Developer Associate",
-    "date": "2021-08-03",
-    "issuer": "Microsoft",
-    "url": "https://www.credly.com/badges/cb4106fe-dffd-4549-991b-0e6bc5d6e1e1"
-  }],
+  "certificates": [
+    {
+      "name": "AZ-204: Azure Developer Associate",
+      "date": "2021-08-03",
+      "issuer": "Microsoft",
+      "url": "https://www.credly.com/badges/cb4106fe-dffd-4549-991b-0e6bc5d6e1e1"
+    }
+  ],
   "publications": [],
-  "skills": [{
-    "name": "Leadership",
-    "level": "",
-    "keywords": [
-     "Technical Leadership",
-     "People Management",
-     "Mentoring",
-     "Recruitment",
-     "Technical Interview"
-    ]
-  }, {
-    "name": "Product & Delivery",
-    "level": "",
-    "keywords": [
-     "Cross-functional Collaboration",
-     "Backlog Management",
-     "Backlog Prioritization",
-     "Sprint Planning"
-    ]
-  }, {
-    "name": "Engineering",
-    "level": "",
-    "keywords": [
-      "Software Architecture",
-      "Design Patterns",
-      "Technical Decision Making",
-      "Code Reviews",
-      "Technical Documentation"
-    ]
-  }, {
-    "name": "Cloud",
-    "level": "",
-    "keywords": [
-      "Azure",
-      "Container Apps",
-      "Function Apps",
-      "Service Bus",
-      "EntraId",
-      "ARM",
-      "Bicep",
-      "IaaC",
-      "Logs analysis",
-      "KQL"
-    ]
-  }, {
-    "name": "Server-side technologies",
-    "level": "",
-    "keywords": [
-      ".NET",
-      "C#",
-      "SQL Server",
-      "NoSQL",
-      "EntityFramework",
-      "Dapper",
-      "Testcontainers",
-      "Microservices"
-    ]
-  }, {
-    "name": "Frontend",
-    "level": "",
-    "keywords": [
-     "JavaScript",
-     "TypeScript",
-     "React & Angular Basics"
-    ]
-  }, {
-    "name": "Azure DevOps",
-    "level": "",
-    "keywords": [
-     "Azure Pipelines",
-     "CI/CD Pipelines"
-    ]
-  }],
-  "languages": [{
-    "language": "Polish",
-    "fluency": "Native speaker"
-  }, {
-    "language": "English",
-    "fluency": "Limited working proficiency"
-  }],
-  "interests": [{
-     "name": "Cycling",
-     "keywords": ["Road", "Gravel", "Night Cycling"]
-   }, {
-     "name": "Climbing",
-     "keywords": ["Trad", "Gym"]
-  }, {
-     "name": "Hiking",
-     "keywords": ["Scrambling", "Off the trail"]
-  }],
+  "skills": [
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": [
+        "Technical Leadership",
+        "People Management",
+        "Mentoring",
+        "Recruitment",
+        "Technical Interview"
+      ]
+    },
+    {
+      "name": "Product & Delivery",
+      "level": "",
+      "keywords": [
+        "Cross-functional Collaboration",
+        "Backlog Management",
+        "Backlog Prioritization",
+        "Sprint Planning"
+      ]
+    },
+    {
+      "name": "Engineering",
+      "level": "",
+      "keywords": [
+        "Software Architecture",
+        "Distributed Systems",
+        "Microservices",
+        "Design Patterns",
+        "Technical Decision Making",
+        "Code Reviews",
+        "Technical Documentation"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "level": "",
+      "keywords": [
+        "Azure",
+        "Container Apps",
+        "Function Apps",
+        "Service Bus",
+        "EntraId",
+        "ARM",
+        "Bicep",
+        "IaaC",
+        "Logs analysis",
+        "KQL"
+      ]
+    },
+    {
+      "name": "Server-side technologies",
+      "level": "",
+      "keywords": [
+        ".NET",
+        "C#",
+        "SQL Server",
+        "NoSQL",
+        "EntityFramework",
+        "Dapper",
+        "Testcontainers"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "level": "",
+      "keywords": [
+        "JavaScript",
+        "TypeScript",
+        "React & Angular Basics"
+      ]
+    },
+    {
+      "name": "Azure DevOps",
+      "level": "",
+      "keywords": [
+        "Azure Pipelines",
+        "CI/CD Pipelines"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Polish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Limited working proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Cycling",
+      "keywords": [
+        "Road",
+        "Gravel",
+        "Night Cycling"
+      ]
+    },
+    {
+      "name": "Climbing",
+      "keywords": [
+        "Trad",
+        "Gym"
+      ]
+    },
+    {
+      "name": "Hiking",
+      "keywords": [
+        "Scrambling",
+        "Off the trail"
+      ]
+    }
+  ],
   "references": [],
   "projects": [],
   "meta": {
