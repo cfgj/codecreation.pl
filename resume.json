@@ -66,12 +66,12 @@
       "url": "https://www.insert.com.pl",
       "startDate": "2014-07-01",
       "endDate": "2015-02-01",
-      "summary": "Developed a desktop CRM application, focusing on extending the functionality of a text editor within a desktop CRM application and implementing data migration between application versions.",
+      "summary": "Developed a desktop CRM application, focusing on extending the functionality of a text editor and implementing data migration.",
       "highlights": [
         "Development of a desktop application for managing customer relationships (CRM)",
         "Adapting an editor written in JavaScript for use in a desktop application",
         "Creating a spell-checking plugin for the editor",
-        "Writing a plugin for migrating data from an older version of the application to a newer one",
+        "Writing a plugin for migrating data from an older version of the application to a newer one using XSD/XML",
         "Technologies used: C#, WPF, Entity Framework, SQL Server, XSD/XML, Awesomium, JavaScript"
       ]
     },
